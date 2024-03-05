@@ -1,7 +1,7 @@
 # blocklists
 
 ## Description
-These are the most [UT1 blocklists](https://dsi.ut-capitole.fr/blacklists/index_en.php), converted to txt files, so that you can use it in [Pi-hole](https://pi-hole.net/) and maybe other dns blocking software (not tested).
+These are the most [UT1 blocklists](https://dsi.ut-capitole.fr/blacklists/index_en.php), converted to txt files, so that you can use it in [Pi-hole](https://pi-hole.net/), [Adguard Home](https://adguard.com/en/adguard-home/overview.html) and maybe other dns blocking software (not tested).
 
 ## Updates
 Every night around 1 A.M. the UT1 list will be downloaded, and converted to TXT files, and then uploaded to this repo.
