@@ -1,5 +1,8 @@
 # blocklists
 
+# ARCHIVE NOTE:
+This repo is archived en will not updated anymore. You can find this project from now on here: https://git.geyskens.eu/sgr5/blocklists 
+
 ## Description
 These are the most [UT1 blocklists](https://dsi.ut-capitole.fr/blacklists/index_en.php), converted to txt files, so that you can use it in [Pi-hole](https://pi-hole.net/), [Adguard Home](https://adguard.com/en/adguard-home/overview.html) and maybe other dns blocking software (not tested).
 
